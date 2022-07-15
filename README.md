@@ -62,7 +62,7 @@ npm install --save hexo-theme-fluid
 如下修改 Hexo 博客目录中的 `_config.yml`：
 
 ```yaml
-theme: fluid  # 指定主题
+themes: fluid  # 指定主题
 
 language: zh-CN  # 指定语言，会影响主题显示的语言，按需修改
 ```
